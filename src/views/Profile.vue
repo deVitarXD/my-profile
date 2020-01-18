@@ -8,6 +8,7 @@
 				</h2>
 			</div>
 		</nav>
+
 		<div class="container mr-b-25">
 			<div class="row">
 				<div class="col">
@@ -53,11 +54,6 @@
 </template>
 
 <script>
-	import {
-		NesInputText,
-		NesOctocat
-	} from 'vuenes.css'
-	
 	export default {
 		name: "Profile"
 	};

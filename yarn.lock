@@ -5189,11 +5189,6 @@ neo-async@^2.5.0, neo-async@^2.6.0, neo-async@^2.6.1:
   resolved "https://registry.npm.taobao.org/neo-async/download/neo-async-2.6.1.tgz#ac27ada66167fa8849a6addd837f6b189ad2081c"
   integrity sha1-rCetpmFn+ohJpq3dg39rGJrSCBw=
 
-nes.css@^2.1.0, nes.css@^2.3.0:
-  version "2.3.0"
-  resolved "https://registry.yarnpkg.com/nes.css/-/nes.css-2.3.0.tgz#112c834dd8a18cda570ab76d66b26b078a94c919"
-  integrity sha512-lCFZs9vj3f5RVdbvTL/kSxiYsOARwSeAdJaMNo+bCgmWOO9x8ay7QpT4yQVKHy3r5Dttzd0uqVdpt3fvvx6EpQ==
-
 nice-try@^1.0.4:
   version "1.0.5"
   resolved "https://registry.npm.taobao.org/nice-try/download/nice-try-1.0.5.tgz#a3378a7696ce7d223e88fc9b764bd7ef1089e366"
@@ -7527,11 +7522,6 @@ typedarray@^0.0.6:
   resolved "https://registry.npm.taobao.org/typedarray/download/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
-typeface-press-start-2p@^0.0.72:
-  version "0.0.72"
-  resolved "https://registry.yarnpkg.com/typeface-press-start-2p/-/typeface-press-start-2p-0.0.72.tgz#b5cd2d6b9053c17dc0793b5cb89cf6f560405aa6"
-  integrity sha512-v099LNfH5yJ2yNlYAw3zRz3uux/RpS4kqEXYaY2uBQ48AqMMP7CAXIQSvaZku4YL+awuk8YDMqZolAB2bxvzqQ==
-
 uglify-js@3.4.x:
   version "3.4.10"
   resolved "https://registry.npm.taobao.org/uglify-js/download/uglify-js-3.4.10.tgz#9ad9563d8eb3acdfb8d38597d2af1d815f6a755f"
@@ -7803,19 +7793,10 @@ vue-template-es2015-compiler@^1.9.0:
   resolved "https://registry.npm.taobao.org/vue-template-es2015-compiler/download/vue-template-es2015-compiler-1.9.1.tgz#1ee3bc9a16ecbf5118be334bb15f9c46f82f5825"
   integrity sha1-HuO8mhbsv1EYvjNLsV+cRvgvWCU=
 
-vue@^2.6.10, vue@^2.6.8:
+vue@^2.6.10:
   version "2.6.11"
   resolved "https://registry.npm.taobao.org/vue/download/vue-2.6.11.tgz?cache=0&sync_timestamp=1578956246377&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fvue%2Fdownload%2Fvue-2.6.11.tgz#76594d877d4b12234406e84e35275c6d514125c5"
   integrity sha1-dllNh31LEiNEBuhONSdcbVFBJcU=
-
-vuenes.css@^2.1.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/vuenes.css/-/vuenes.css-2.1.0.tgz#cdd74d1b3e8c88361f7544f89d5efb962080db01"
-  integrity sha512-3QGk7+FYFp19XTG/J5SpcCp3+hakJn2Gh/QgmRaUKI9GlsW1B181hky4EQbGe/1gnhkK2PAxO5zMx8Q4d7k/bg==
-  dependencies:
-    nes.css "^2.1.0"
-    typeface-press-start-2p "^0.0.72"
-    vue "^2.6.8"
 
 watchpack@^1.6.0:
   version "1.6.0"
