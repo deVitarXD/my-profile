@@ -209,7 +209,17 @@
 							<div class="col-xs-10">
 								<h3>Nilecon (Thailand) Co., Ltd.</h3>
 								<p>Web Develop (PHP, Nodejs, Reactjs, Docker, Angular2)</p>
-								<p>2018 ( 5 March ) - PRESENT</p>
+								<p>2018 ( 5 March ) - 2018 (30 Septmber)</p>
+							</div>
+						</div>
+						<div class="row" style="margin-top: 30px;">
+							<div class="col-xs-2">
+								<i class="nes-pokeball is-large"></i>
+							</div>
+							<div class="col-xs-10">
+								<h3>MOVEFAST CO., LTD.</h3>
+								<p>Web Application Developer</p>
+								<p>2018 ( December 17 ) - PRESENT</p>
 							</div>
 						</div>
 					</div>
