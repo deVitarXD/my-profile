@@ -148,7 +148,7 @@
 					</div>
 
 					<h3 class="topic-title">
-						<i class="nes-icon star"></i> Experience
+						<i class="nes-icon star"></i>Experience
 					</h3>
 					<div class="nes-container is-dark">
 						<div class="row">
@@ -170,16 +170,6 @@
 								<h3>CDG Systems Ltd</h3>
 								<p>JAVA Programer(Cooperative education program)</p>
 								<p>2015</p>
-							</div>
-						</div>
-						<div class="row" style="margin-top: 30px;">
-							<div class="col-xs-2">
-								<i class="nes-pokeball is-large"></i>
-							</div>
-							<div class="col-xs-10">
-								<h3>IMT ASE Co., LTD.</h3>
-								<p>Web Developer (Full Stack)</p>
-								<p>2016 ( 16 Jun - 28 Sep )</p>
 							</div>
 						</div>
 						<div class="row" style="margin-top: 30px;">
